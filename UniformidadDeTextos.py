@@ -1,0 +1,5 @@
+a=input("ingrese palabra: ")
+mayus=a.upper()
+minus=a.lower()
+print("En mayusculas seria: ",mayus)
+print("En minusculas seria: ",minus)
