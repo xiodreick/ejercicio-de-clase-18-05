@@ -1,6 +1,6 @@
 a=input("ingrese contraseña: ")
 b=len(a)
 if b >= 8 and "clave"not in a and "123" not in a:
-    print("acceso concedido")
+    print("contraseña aceptada")
 else:
-    print("acceso denegado")
+    print("no cumple con los requisitos")
